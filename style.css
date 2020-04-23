@@ -1,0 +1,70 @@
+body{
+    background-color: orange;
+}
+
+header{
+    background-color:green;
+     height: 200px;
+    margin-left: 30px;
+    margin-right:30px;
+}
+
+div {
+    border:1px solid;
+    width: 35%;
+    background-color: gainsboro;
+}
+
+div h1{
+    margin-left:40px;
+}
+
+header h1{
+font-size: 70px;
+margin-top: 70px;
+margin-left: 13%;
+position: absolute;
+color: white;
+
+border: 1px solid white;
+border-width:medium;
+border-radius: 10px;
+border-spacing:inherit;
+}
+
+.sectionp{
+    background-color: white;
+    box-shadow: insert 0 0 2em black ;
+    height: auto;
+    margin-top:20px;
+    margin-left: 30px;
+    margin-right:30px;    
+}
+
+.sections{
+    margin-left: 10px;
+    margin-right:10px;
+}
+
+h1{
+    font-size: 30px;
+}
+
+.sections p{
+    font-size: 20px;
+}
+.sections ul li{
+    font-size: 20px;
+}
+
+ul li{
+   font-size:15px; 
+}
+
+footer p{
+    color:white;
+}
+
+div ol li{
+    font-size: 30px ;
+}
